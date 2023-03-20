@@ -1,0 +1,41 @@
+2023-02-09 23:34:27 DEBUG TelegramBot:28 - /start
+2023-02-09 23:36:34 DEBUG TelegramBot:28 - asdasd
+2023-02-09 23:41:13 DEBUG TelegramBot:29 - /start
+2023-02-11 22:37:21 DEBUG TelegramBot:41 - /start
+2023-02-11 23:46:36 DEBUG TelegramBot:41 - /start
+2023-02-12 00:12:32 DEBUG TelegramBot:41 - /start
+2023-02-12 00:12:32 DEBUG UpdateProducerImpl:13 - /start
+2023-02-12 00:12:40 DEBUG TelegramBot:41 - hello
+2023-02-12 00:12:40 DEBUG UpdateProducerImpl:13 - hello
+2023-02-12 00:14:49 DEBUG TelegramBot:41 - 
+2023-02-12 00:14:49 DEBUG UpdateProducerImpl:13 - 
+2023-02-12 00:15:06 DEBUG TelegramBot:41 - 
+2023-02-12 00:15:16 DEBUG TelegramBot:41 - 
+2023-02-12 00:15:16 DEBUG UpdateProducerImpl:13 - 
+2023-02-13 15:56:18 DEBUG TelegramBot:41 - hello
+2023-02-13 15:56:18 DEBUG UpdateProducerImpl:20 - hello
+2023-02-13 19:28:30 DEBUG TelegramBot:41 - hello from chat
+2023-02-13 19:28:30 DEBUG UpdateProducerImpl:20 - hello from chat
+2023-02-13 19:31:44 DEBUG TelegramBot:41 - hello form chat
+2023-02-13 19:31:44 DEBUG UpdateProducerImpl:20 - hello form chat
+2023-02-13 19:48:01 DEBUG TelegramBot:41 - @RabbitListener(queues = TEXT_MESSAGE_UPDATE)
+2023-02-13 19:48:01 DEBUG UpdateProducerImpl:20 - @RabbitListener(queues = TEXT_MESSAGE_UPDATE)
+2023-02-13 19:50:56 DEBUG TelegramBot:41 - hello form chat
+2023-02-13 19:50:56 DEBUG UpdateProducerImpl:20 - hello form chat
+2023-02-14 00:52:51 DEBUG TelegramBot:41 - hello form chat
+2023-02-14 00:52:51 DEBUG UpdateProducerImpl:20 - hello form chat
+2023-02-14 00:54:45 DEBUG TelegramBot:41 - Hello form chat
+2023-02-14 00:54:45 DEBUG UpdateProducerImpl:20 - Hello form chat
+2023-02-14 23:11:40 DEBUG TelegramBot:41 - 
+2023-02-14 23:17:30 DEBUG TelegramBot:41 - 
+2023-02-14 23:17:47 DEBUG TelegramBot:41 - asd
+2023-02-14 23:17:47 DEBUG UpdateProducerImpl:20 - asd
+2023-02-14 23:19:06 DEBUG TelegramBot:41 - ddddd
+2023-02-14 23:19:06 DEBUG UpdateProducerImpl:20 - ddddd
+2023-02-14 23:19:38 DEBUG TelegramBot:41 - 
+2023-02-14 23:19:50 DEBUG TelegramBot:41 - hello
+2023-02-14 23:19:50 DEBUG UpdateProducerImpl:20 - hello
+2023-02-15 19:58:41 DEBUG TelegramBot:41 - Привет
+2023-02-15 19:58:41 DEBUG UpdateProducerImpl:20 - Привет
+2023-02-15 19:58:58 DEBUG TelegramBot:41 - Меня зовут Миша
+2023-02-15 19:58:58 DEBUG UpdateProducerImpl:20 - Меня зовут Миша
